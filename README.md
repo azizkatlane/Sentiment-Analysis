@@ -5,5 +5,5 @@
 
 </p>
 
-<h4>Part 1: Data Scraping from IMDb</h4>
+<h4>Part 1: Data Scraping from IMDb (BeatifulSoup)</h4>
 <p>In the first segment of the project, web scraping techniques are employed to extract movie data from IMDb. Utilizing Python libraries such as requests and BeautifulSoup, relevant information such as movie titles, release years, ratings, genres, runtimes, metascores, and votes is scraped from a specified IMDb list URL then loaded into a csv file format </p>
